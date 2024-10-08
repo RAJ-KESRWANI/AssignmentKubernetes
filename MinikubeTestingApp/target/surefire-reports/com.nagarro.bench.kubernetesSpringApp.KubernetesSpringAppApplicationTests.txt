@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nagarro.bench.kubernetesSpringApp.KubernetesSpringAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.487 s -- in com.nagarro.bench.kubernetesSpringApp.KubernetesSpringAppApplicationTests
